@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right, #2dcde2b8, #030168da);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+section {
+    width: 350px;
+    height: 350px;
+    padding: 40px;
+    border-radius: 15%;
+    box-shadow: 5px 5px 15px black;
+    margin: auto;
+    color: white;
+
+}
